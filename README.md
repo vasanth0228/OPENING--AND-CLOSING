@@ -105,4 +105,5 @@ plt.show()
 
 <br>
 ## Result:
+
 Thus,the Opening and Closing operation is used in the image using python and OpenCV.
